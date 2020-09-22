@@ -20,9 +20,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills.DotNet.Task3"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills.DotNet.Task4", "src\TeachMeSkills.DotNet.Task4\TeachMeSkills.DotNet.Task4.csproj", "{41DD41B4-F0FE-4929-B913-ABD4BD53C538}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachMeSkills.DotNet.Task5", "src\TeachMeSkills.DotNet.Task5\TeachMeSkills.DotNet.Task5.csproj", "{3CD74426-0467-406A-AF7D-36898A087815}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills.DotNet.Task5", "src\TeachMeSkills.DotNet.Task5\TeachMeSkills.DotNet.Task5.csproj", "{3CD74426-0467-406A-AF7D-36898A087815}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachMeSkills.DotNet.Task6", "src\TeachMeSkills.DotNet.Task6\TeachMeSkills.DotNet.Task6.csproj", "{BCED046A-3ABB-4B28-B1BB-E976E1F5F3B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills.DotNet.Task6", "src\TeachMeSkills.DotNet.Task6\TeachMeSkills.DotNet.Task6.csproj", "{BCED046A-3ABB-4B28-B1BB-E976E1F5F3B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
